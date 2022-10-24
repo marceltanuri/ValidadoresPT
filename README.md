@@ -1,4 +1,4 @@
-#ValidadoresPT
+# ValidadoresPT
 
 Reúne uma biblioteca de validadores e campos úteis em formulários portugueses.
 
