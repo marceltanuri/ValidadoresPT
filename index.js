@@ -19,39 +19,47 @@ export class Morada {
     }
 
     load(callbackFn) {
-        new Distritos().into("select" + this.config.elements.distrito).load()
 
-        //when distritos changes loads concelhos
-        new OnChangeEventBuilder()
-            .elem("select" + this.config.elements.distrito)
-            .always((distritoValue) => {
-                new Concelhos().from(distritoValue).into("select" + this.config.elements.concelho).load()
+        if (document.querySelector("select" + this.config.elements.distrito) != null) {
+            new Distritos().into("select" + this.config.elements.distrito).load()
 
-                document.querySelectorAll(this.config.elements.concelho).forEach(i => {
-                    i.style.display = "block"
-                })
-            })
-            .build()
 
-        //when concelhos changes loads freguesias
-        new OnChangeEventBuilder()
-            .elem("select" + this.config.elements.concelho)
-            .always((concelhoValue) => {
+            if (document.querySelector("select" + this.config.elements.concelho) != null) {
+                //when distritos changes loads concelhos
+                new OnChangeEventBuilder()
+                    .elem("select" + this.config.elements.distrito)
+                    .always((distritoValue) => {
+                        new Concelhos().from(distritoValue).into("select" + this.config.elements.concelho).load()
 
-                const distritoId = document.querySelector("select" + this.config.elements.distrito).value
-                new Freguesias().from(distritoId, concelhoValue).into("select" + this.config.elements.freguesia).load()
+                        document.querySelectorAll(this.config.elements.concelho).forEach(i => {
+                            i.style.display = "block"
+                        })
+                    })
+                    .build()
 
-                document.querySelectorAll(this.config.elements.freguesia).forEach(i => {
-                    i.style.display = "block"
-                })
 
-                if(callbackFn instanceof Function){
-                    callbackFn()
+                if (document.querySelector("select" + this.config.elements.freguesia) != null) {
+                    //when concelhos changes loads freguesias
+                    new OnChangeEventBuilder()
+                        .elem("select" + this.config.elements.concelho)
+                        .always((concelhoValue) => {
+
+                            const distritoId = document.querySelector("select" + this.config.elements.distrito).value
+                            new Freguesias().from(distritoId, concelhoValue).into("select" + this.config.elements.freguesia).load()
+
+                            document.querySelectorAll(this.config.elements.freguesia).forEach(i => {
+                                i.style.display = "block"
+                            })
+
+                            if (callbackFn instanceof Function) {
+                                callbackFn()
+                            }
+
+                        })
+                        .build()
                 }
-
-            })
-            .build()
-
+            }
+        }
     }
 }
 
