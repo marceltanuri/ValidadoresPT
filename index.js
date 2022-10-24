@@ -1,8 +1,8 @@
-import OnChangeEventBuilder from './form-validator-builder/src/OnChangeEventBuilder';
+import OnChangeEventBuilder from './src/util/OnChangeEventBuilder';
 
-import { Concelhos } from './regions/Concelhos';
-import { Distritos } from './regions/Distritos';
-import { Freguesias } from './regions/Freguesias';
+import { Concelhos } from './src/regions/Concelhos';
+import { Distritos } from './src/regions/Distritos';
+import { Freguesias } from './src/regions/Freguesias';
 
 export class Morada {
 
@@ -55,5 +55,5 @@ export class Morada {
     }
 }
 
-
+export { Validadores } from './src/validadores-portugal/Validadores';
 

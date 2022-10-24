@@ -6,7 +6,7 @@ import _Max from "./Max";
 import _Today from "./Today";
 import _CodigoPostal from "./CodigoPostal";
 
-class Validadores{
+export class Validadores{
 
     static NIF = _NIF;
     static Email = _Email;
@@ -17,6 +17,3 @@ class Validadores{
     static Today = _Today;
 
 }
-
-window.ValidadoresPortugal =  Validadores;
-export default Validadores;
