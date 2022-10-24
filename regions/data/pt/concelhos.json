@@ -1,0 +1,1542 @@
+[
+    {
+      "distritoId": 1,
+      "concelhoId": 1,
+      "nome": "ÁGUEDA"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 2,
+      "nome": "ALBERGARIA-A-VELHA"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 3,
+      "nome": "ANADIA"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 4,
+      "nome": "AROUCA"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 5,
+      "nome": "AVEIRO"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 6,
+      "nome": "CASTELO DE PAIVA"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 7,
+      "nome": "ESPINHO"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 8,
+      "nome": "ESTARREJA"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 9,
+      "nome": "SANTA MARIA DA FEIRA"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 10,
+      "nome": "ÍLHAVO"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 11,
+      "nome": "MEALHADA"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 12,
+      "nome": "MURTOSA"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 13,
+      "nome": "OLIVEIRA DE AZEMÉIS"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 14,
+      "nome": "OLIVEIRA DO BAIRRO"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 15,
+      "nome": "OVAR"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 16,
+      "nome": "SÃO JOÃO DA MADEIRA"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 17,
+      "nome": "SEVER DO VOUGA"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 18,
+      "nome": "VAGOS"
+    },
+    {
+      "distritoId": 1,
+      "concelhoId": 19,
+      "nome": "VALE DE CAMBRA"
+    },
+    {
+      "distritoId": 2,
+      "concelhoId": 1,
+      "nome": "ALJUSTREL"
+    },
+    {
+      "distritoId": 2,
+      "concelhoId": 2,
+      "nome": "ALMODÔVAR"
+    },
+    {
+      "distritoId": 2,
+      "concelhoId": 3,
+      "nome": "ALVITO"
+    },
+    {
+      "distritoId": 2,
+      "concelhoId": 4,
+      "nome": "BARRANCOS"
+    },
+    {
+      "distritoId": 2,
+      "concelhoId": 5,
+      "nome": "BEJA"
+    },
+    {
+      "distritoId": 2,
+      "concelhoId": 6,
+      "nome": "CASTRO VERDE"
+    },
+    {
+      "distritoId": 2,
+      "concelhoId": 7,
+      "nome": "CUBA"
+    },
+    {
+      "distritoId": 2,
+      "concelhoId": 8,
+      "nome": "FERREIRA DO ALENTEJO"
+    },
+    {
+      "distritoId": 2,
+      "concelhoId": 9,
+      "nome": "MÉRTOLA"
+    },
+    {
+      "distritoId": 2,
+      "concelhoId": 10,
+      "nome": "MOURA"
+    },
+    {
+      "distritoId": 2,
+      "concelhoId": 11,
+      "nome": "ODEMIRA"
+    },
+    {
+      "distritoId": 2,
+      "concelhoId": 12,
+      "nome": "OURIQUE"
+    },
+    {
+      "distritoId": 2,
+      "concelhoId": 13,
+      "nome": "SERPA"
+    },
+    {
+      "distritoId": 2,
+      "concelhoId": 14,
+      "nome": "VIDIGUEIRA"
+    },
+    {
+      "distritoId": 3,
+      "concelhoId": 1,
+      "nome": "AMARES"
+    },
+    {
+      "distritoId": 3,
+      "concelhoId": 2,
+      "nome": "BARCELOS"
+    },
+    {
+      "distritoId": 3,
+      "concelhoId": 3,
+      "nome": "BRAGA"
+    },
+    {
+      "distritoId": 3,
+      "concelhoId": 4,
+      "nome": "CABECEIRAS DE BASTO"
+    },
+    {
+      "distritoId": 3,
+      "concelhoId": 5,
+      "nome": "CELORICO DE BASTO"
+    },
+    {
+      "distritoId": 3,
+      "concelhoId": 6,
+      "nome": "ESPOSENDE"
+    },
+    {
+      "distritoId": 3,
+      "concelhoId": 7,
+      "nome": "FAFE"
+    },
+    {
+      "distritoId": 3,
+      "concelhoId": 8,
+      "nome": "GUIMARÃES"
+    },
+    {
+      "distritoId": 3,
+      "concelhoId": 9,
+      "nome": "PÓVOA DE LANHOSO"
+    },
+    {
+      "distritoId": 3,
+      "concelhoId": 10,
+      "nome": "TERRAS DE BOURO"
+    },
+    {
+      "distritoId": 3,
+      "concelhoId": 11,
+      "nome": "VIEIRA DO MINHO"
+    },
+    {
+      "distritoId": 3,
+      "concelhoId": 12,
+      "nome": "VILA NOVA DE FAMALICÃO"
+    },
+    {
+      "distritoId": 3,
+      "concelhoId": 13,
+      "nome": "VILA VERDE"
+    },
+    {
+      "distritoId": 3,
+      "concelhoId": 14,
+      "nome": "VIZELA"
+    },
+    {
+      "distritoId": 4,
+      "concelhoId": 1,
+      "nome": "ALFÂNDEGA DA FÉ"
+    },
+    {
+      "distritoId": 4,
+      "concelhoId": 2,
+      "nome": "BRAGANÇA"
+    },
+    {
+      "distritoId": 4,
+      "concelhoId": 3,
+      "nome": "CARRAZEDA DE ANSIÃES"
+    },
+    {
+      "distritoId": 4,
+      "concelhoId": 4,
+      "nome": "FREIXO DE ESPADA À CINTA"
+    },
+    {
+      "distritoId": 4,
+      "concelhoId": 5,
+      "nome": "MACEDO DE CAVALEIROS"
+    },
+    {
+      "distritoId": 4,
+      "concelhoId": 6,
+      "nome": "MIRANDA DO DOURO"
+    },
+    {
+      "distritoId": 4,
+      "concelhoId": 7,
+      "nome": "MIRANDELA"
+    },
+    {
+      "distritoId": 4,
+      "concelhoId": 8,
+      "nome": "MOGADOURO"
+    },
+    {
+      "distritoId": 4,
+      "concelhoId": 9,
+      "nome": "TORRE DE MONCORVO"
+    },
+    {
+      "distritoId": 4,
+      "concelhoId": 10,
+      "nome": "VILA FLOR"
+    },
+    {
+      "distritoId": 4,
+      "concelhoId": 11,
+      "nome": "VIMIOSO"
+    },
+    {
+      "distritoId": 4,
+      "concelhoId": 12,
+      "nome": "VINHAIS"
+    },
+    {
+      "distritoId": 5,
+      "concelhoId": 1,
+      "nome": "BELMONTE"
+    },
+    {
+      "distritoId": 5,
+      "concelhoId": 2,
+      "nome": "CASTELO BRANCO"
+    },
+    {
+      "distritoId": 5,
+      "concelhoId": 3,
+      "nome": "COVILHÃ"
+    },
+    {
+      "distritoId": 5,
+      "concelhoId": 4,
+      "nome": "FUNDÃO"
+    },
+    {
+      "distritoId": 5,
+      "concelhoId": 5,
+      "nome": "IDANHA-A-NOVA"
+    },
+    {
+      "distritoId": 5,
+      "concelhoId": 6,
+      "nome": "OLEIROS"
+    },
+    {
+      "distritoId": 5,
+      "concelhoId": 7,
+      "nome": "PENAMACOR"
+    },
+    {
+      "distritoId": 5,
+      "concelhoId": 8,
+      "nome": "PROENÇA-A-NOVA"
+    },
+    {
+      "distritoId": 5,
+      "concelhoId": 9,
+      "nome": "SERTÃ"
+    },
+    {
+      "distritoId": 5,
+      "concelhoId": 10,
+      "nome": "VILA DE REI"
+    },
+    {
+      "distritoId": 5,
+      "concelhoId": 11,
+      "nome": "VILA VELHA DE RÓDÃO"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 1,
+      "nome": "ARGANIL"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 2,
+      "nome": "CANTANHEDE"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 3,
+      "nome": "COIMBRA"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 4,
+      "nome": "CONDEIXA-A-NOVA"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 5,
+      "nome": "FIGUEIRA DA FOZ"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 6,
+      "nome": "GÓIS"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 7,
+      "nome": "LOUSÃ"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 8,
+      "nome": "MIRA"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 9,
+      "nome": "MIRANDA DO CORVO"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 10,
+      "nome": "MONTEMOR-O-VELHO"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 11,
+      "nome": "OLIVEIRA DO HOSPITAL"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 12,
+      "nome": "PAMPILHOSA DA SERRA"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 13,
+      "nome": "PENACOVA"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 14,
+      "nome": "PENELA"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 15,
+      "nome": "SOURE"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 16,
+      "nome": "TÁBUA"
+    },
+    {
+      "distritoId": 6,
+      "concelhoId": 17,
+      "nome": "VILA NOVA DE POIARES"
+    },
+    {
+      "distritoId": 7,
+      "concelhoId": 1,
+      "nome": "ALANDROAL"
+    },
+    {
+      "distritoId": 7,
+      "concelhoId": 2,
+      "nome": "ARRAIOLOS"
+    },
+    {
+      "distritoId": 7,
+      "concelhoId": 3,
+      "nome": "BORBA"
+    },
+    {
+      "distritoId": 7,
+      "concelhoId": 4,
+      "nome": "ESTREMOZ"
+    },
+    {
+      "distritoId": 7,
+      "concelhoId": 5,
+      "nome": "ÉVORA"
+    },
+    {
+      "distritoId": 7,
+      "concelhoId": 6,
+      "nome": "MONTEMOR-O-NOVO"
+    },
+    {
+      "distritoId": 7,
+      "concelhoId": 7,
+      "nome": "MORA"
+    },
+    {
+      "distritoId": 7,
+      "concelhoId": 8,
+      "nome": "MOURÃO"
+    },
+    {
+      "distritoId": 7,
+      "concelhoId": 9,
+      "nome": "PORTEL"
+    },
+    {
+      "distritoId": 7,
+      "concelhoId": 10,
+      "nome": "REDONDO"
+    },
+    {
+      "distritoId": 7,
+      "concelhoId": 11,
+      "nome": "REGUENGOS DE MONSARAZ"
+    },
+    {
+      "distritoId": 7,
+      "concelhoId": 12,
+      "nome": "VENDAS NOVAS"
+    },
+    {
+      "distritoId": 7,
+      "concelhoId": 13,
+      "nome": "VIANA DO ALENTEJO"
+    },
+    {
+      "distritoId": 7,
+      "concelhoId": 14,
+      "nome": "VILA VIÇOSA"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 1,
+      "nome": "ALBUFEIRA"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 2,
+      "nome": "ALCOUTIM"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 3,
+      "nome": "ALJEZUR"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 4,
+      "nome": "CASTRO MARIM"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 5,
+      "nome": "FARO"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 6,
+      "nome": "LAGOA"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 7,
+      "nome": "LAGOS"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 8,
+      "nome": "LOULÉ"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 9,
+      "nome": "MONCHIQUE"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 10,
+      "nome": "OLHÃO"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 11,
+      "nome": "PORTIMÃO"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 12,
+      "nome": "SÃO BRÁS DE ALPORTEL"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 13,
+      "nome": "SILVES"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 14,
+      "nome": "TAVIRA"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 15,
+      "nome": "VILA DO BISPO"
+    },
+    {
+      "distritoId": 8,
+      "concelhoId": 16,
+      "nome": "VILA REAL DE SANTO ANTÓNIO"
+    },
+    {
+      "distritoId": 9,
+      "concelhoId": 1,
+      "nome": "AGUIAR DA BEIRA"
+    },
+    {
+      "distritoId": 9,
+      "concelhoId": 2,
+      "nome": "ALMEIDA"
+    },
+    {
+      "distritoId": 9,
+      "concelhoId": 3,
+      "nome": "CELORICO DA BEIRA"
+    },
+    {
+      "distritoId": 9,
+      "concelhoId": 4,
+      "nome": "FIGUEIRA DE CASTELO RODRIGO"
+    },
+    {
+      "distritoId": 9,
+      "concelhoId": 5,
+      "nome": "FORNOS DE ALGODRES"
+    },
+    {
+      "distritoId": 9,
+      "concelhoId": 6,
+      "nome": "GOUVEIA"
+    },
+    {
+      "distritoId": 9,
+      "concelhoId": 7,
+      "nome": "GUARDA"
+    },
+    {
+      "distritoId": 9,
+      "concelhoId": 8,
+      "nome": "MANTEIGAS"
+    },
+    {
+      "distritoId": 9,
+      "concelhoId": 9,
+      "nome": "MEDA"
+    },
+    {
+      "distritoId": 9,
+      "concelhoId": 10,
+      "nome": "PINHEL"
+    },
+    {
+      "distritoId": 9,
+      "concelhoId": 11,
+      "nome": "SABUGAL"
+    },
+    {
+      "distritoId": 9,
+      "concelhoId": 12,
+      "nome": "SEIA"
+    },
+    {
+      "distritoId": 9,
+      "concelhoId": 13,
+      "nome": "TRANCOSO"
+    },
+    {
+      "distritoId": 9,
+      "concelhoId": 14,
+      "nome": "VILA NOVA DE FOZ CÔA"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 1,
+      "nome": "ALCOBAÇA"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 2,
+      "nome": "ALVAIÁZERE"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 3,
+      "nome": "ANSIÃO"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 4,
+      "nome": "BATALHA"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 5,
+      "nome": "BOMBARRAL"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 6,
+      "nome": "CALDAS DA RAINHA"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 7,
+      "nome": "CASTANHEIRA DE PÊRA"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 8,
+      "nome": "FIGUEIRÓ DOS VINHOS"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 9,
+      "nome": "LEIRIA"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 10,
+      "nome": "MARINHA GRANDE"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 11,
+      "nome": "NAZARÉ"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 12,
+      "nome": "ÓBIDOS"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 13,
+      "nome": "PEDRÓGÃO GRANDE"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 14,
+      "nome": "PENICHE"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 15,
+      "nome": "POMBAL"
+    },
+    {
+      "distritoId": 10,
+      "concelhoId": 16,
+      "nome": "PORTO DE MÓS"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 1,
+      "nome": "ALENQUER"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 2,
+      "nome": "ARRUDA DOS VINHOS"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 3,
+      "nome": "AZAMBUJA"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 4,
+      "nome": "CADAVAL"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 5,
+      "nome": "CASCAIS"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 6,
+      "nome": "LISBOA"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 7,
+      "nome": "LOURES"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 8,
+      "nome": "LOURINHÃ"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 9,
+      "nome": "MAFRA"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 10,
+      "nome": "OEIRAS"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 11,
+      "nome": "SINTRA"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 12,
+      "nome": "SOBRAL DE MONTE AGRAÇO"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 13,
+      "nome": "TORRES VEDRAS"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 14,
+      "nome": "VILA FRANCA DE XIRA"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 15,
+      "nome": "AMADORA"
+    },
+    {
+      "distritoId": 11,
+      "concelhoId": 16,
+      "nome": "ODIVELAS"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 1,
+      "nome": "ALTER DO CHÃO"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 2,
+      "nome": "ARRONCHES"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 3,
+      "nome": "AVIS"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 4,
+      "nome": "CAMPO MAIOR"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 5,
+      "nome": "CASTELO DE VIDE"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 6,
+      "nome": "CRATO"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 7,
+      "nome": "ELVAS"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 8,
+      "nome": "FRONTEIRA"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 9,
+      "nome": "GAVIÃO"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 10,
+      "nome": "MARVÃO"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 11,
+      "nome": "MONFORTE"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 12,
+      "nome": "NISA"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 13,
+      "nome": "PONTE DE SOR"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 14,
+      "nome": "PORTALEGRE"
+    },
+    {
+      "distritoId": 12,
+      "concelhoId": 15,
+      "nome": "SOUSEL"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 1,
+      "nome": "AMARANTE"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 2,
+      "nome": "BAIÃO"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 3,
+      "nome": "FELGUEIRAS"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 4,
+      "nome": "GONDOMAR"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 5,
+      "nome": "LOUSADA"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 6,
+      "nome": "MAIA"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 7,
+      "nome": "MARCO DE CANAVESES"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 8,
+      "nome": "MATOSINHOS"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 9,
+      "nome": "PAÇOS DE FERREIRA"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 10,
+      "nome": "PAREDES"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 11,
+      "nome": "PENAFIEL"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 12,
+      "nome": "PORTO"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 13,
+      "nome": "PÓVOA DE VARZIM"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 14,
+      "nome": "SANTO TIRSO"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 15,
+      "nome": "VALONGO"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 16,
+      "nome": "VILA DO CONDE"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 17,
+      "nome": "VILA NOVA DE GAIA"
+    },
+    {
+      "distritoId": 13,
+      "concelhoId": 18,
+      "nome": "TROFA"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 1,
+      "nome": "ABRANTES"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 2,
+      "nome": "ALCANENA"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 3,
+      "nome": "ALMEIRIM"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 4,
+      "nome": "ALPIARÇA"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 5,
+      "nome": "BENAVENTE"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 6,
+      "nome": "CARTAXO"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 7,
+      "nome": "CHAMUSCA"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 8,
+      "nome": "CONSTÂNCIA"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 9,
+      "nome": "CORUCHE"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 10,
+      "nome": "ENTRONCAMENTO"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 11,
+      "nome": "FERREIRA DO ZÊZERE"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 12,
+      "nome": "GOLEGÃ"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 13,
+      "nome": "MAÇÃO"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 14,
+      "nome": "RIO MAIOR"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 15,
+      "nome": "SALVATERRA DE MAGOS"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 16,
+      "nome": "SANTARÉM"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 17,
+      "nome": "SARDOAL"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 18,
+      "nome": "TOMAR"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 19,
+      "nome": "TORRES NOVAS"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 20,
+      "nome": "VILA NOVA DA BARQUINHA"
+    },
+    {
+      "distritoId": 14,
+      "concelhoId": 21,
+      "nome": "OURÉM"
+    },
+    {
+      "distritoId": 15,
+      "concelhoId": 1,
+      "nome": "ALCÁCER DO SAL"
+    },
+    {
+      "distritoId": 15,
+      "concelhoId": 2,
+      "nome": "ALCOCHETE"
+    },
+    {
+      "distritoId": 15,
+      "concelhoId": 3,
+      "nome": "ALMADA"
+    },
+    {
+      "distritoId": 15,
+      "concelhoId": 4,
+      "nome": "BARREIRO"
+    },
+    {
+      "distritoId": 15,
+      "concelhoId": 5,
+      "nome": "GRÂNDOLA"
+    },
+    {
+      "distritoId": 15,
+      "concelhoId": 6,
+      "nome": "MOITA"
+    },
+    {
+      "distritoId": 15,
+      "concelhoId": 7,
+      "nome": "MONTIJO"
+    },
+    {
+      "distritoId": 15,
+      "concelhoId": 8,
+      "nome": "PALMELA"
+    },
+    {
+      "distritoId": 15,
+      "concelhoId": 9,
+      "nome": "SANTIAGO DO CACÉM"
+    },
+    {
+      "distritoId": 15,
+      "concelhoId": 10,
+      "nome": "SEIXAL"
+    },
+    {
+      "distritoId": 15,
+      "concelhoId": 11,
+      "nome": "SESIMBRA"
+    },
+    {
+      "distritoId": 15,
+      "concelhoId": 12,
+      "nome": "SETÚBAL"
+    },
+    {
+      "distritoId": 15,
+      "concelhoId": 13,
+      "nome": "SINES"
+    },
+    {
+      "distritoId": 16,
+      "concelhoId": 1,
+      "nome": "ARCOS DE VALDEVEZ"
+    },
+    {
+      "distritoId": 16,
+      "concelhoId": 2,
+      "nome": "CAMINHA"
+    },
+    {
+      "distritoId": 16,
+      "concelhoId": 3,
+      "nome": "MELGAÇO"
+    },
+    {
+      "distritoId": 16,
+      "concelhoId": 4,
+      "nome": "MONÇÃO"
+    },
+    {
+      "distritoId": 16,
+      "concelhoId": 5,
+      "nome": "PAREDES DE COURA"
+    },
+    {
+      "distritoId": 16,
+      "concelhoId": 6,
+      "nome": "PONTE DA BARCA"
+    },
+    {
+      "distritoId": 16,
+      "concelhoId": 7,
+      "nome": "PONTE DE LIMA"
+    },
+    {
+      "distritoId": 16,
+      "concelhoId": 8,
+      "nome": "VALENÇA"
+    },
+    {
+      "distritoId": 16,
+      "concelhoId": 9,
+      "nome": "VIANA DO CASTELO"
+    },
+    {
+      "distritoId": 16,
+      "concelhoId": 10,
+      "nome": "VILA NOVA DE CERVEIRA"
+    },
+    {
+      "distritoId": 17,
+      "concelhoId": 1,
+      "nome": "ALIJÓ"
+    },
+    {
+      "distritoId": 17,
+      "concelhoId": 2,
+      "nome": "BOTICAS"
+    },
+    {
+      "distritoId": 17,
+      "concelhoId": 3,
+      "nome": "CHAVES"
+    },
+    {
+      "distritoId": 17,
+      "concelhoId": 4,
+      "nome": "MESÃO FRIO"
+    },
+    {
+      "distritoId": 17,
+      "concelhoId": 5,
+      "nome": "MONDIM DE BASTO"
+    },
+    {
+      "distritoId": 17,
+      "concelhoId": 6,
+      "nome": "MONTALEGRE"
+    },
+    {
+      "distritoId": 17,
+      "concelhoId": 7,
+      "nome": "MURÇA"
+    },
+    {
+      "distritoId": 17,
+      "concelhoId": 8,
+      "nome": "PESO DA RÉGUA"
+    },
+    {
+      "distritoId": 17,
+      "concelhoId": 9,
+      "nome": "RIBEIRA DE PENA"
+    },
+    {
+      "distritoId": 17,
+      "concelhoId": 10,
+      "nome": "SABROSA"
+    },
+    {
+      "distritoId": 17,
+      "concelhoId": 11,
+      "nome": "SANTA MARTA DE PENAGUIÃO"
+    },
+    {
+      "distritoId": 17,
+      "concelhoId": 12,
+      "nome": "VALPAÇOS"
+    },
+    {
+      "distritoId": 17,
+      "concelhoId": 13,
+      "nome": "VILA POUCA DE AGUIAR"
+    },
+    {
+      "distritoId": 17,
+      "concelhoId": 14,
+      "nome": "VILA REAL"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 1,
+      "nome": "ARMAMAR"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 2,
+      "nome": "CARREGAL DO SAL"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 3,
+      "nome": "CASTRO DAIRE"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 4,
+      "nome": "CINFÃES"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 5,
+      "nome": "LAMEGO"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 6,
+      "nome": "MANGUALDE"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 7,
+      "nome": "MOIMENTA DA BEIRA"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 8,
+      "nome": "MORTÁGUA"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 9,
+      "nome": "NELAS"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 10,
+      "nome": "OLIVEIRA DE FRADES"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 11,
+      "nome": "PENALVA DO CASTELO"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 12,
+      "nome": "PENEDONO"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 13,
+      "nome": "RESENDE"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 14,
+      "nome": "SANTA COMBA DÃO"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 15,
+      "nome": "SÃO JOÃO DA PESQUEIRA"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 16,
+      "nome": "SÃO PEDRO DO SUL"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 17,
+      "nome": "SÁTÃO"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 18,
+      "nome": "SERNANCELHE"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 19,
+      "nome": "TABUAÇO"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 20,
+      "nome": "TAROUCA"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 21,
+      "nome": "TONDELA"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 22,
+      "nome": "VILA NOVA DE PAIVA"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 23,
+      "nome": "VISEU"
+    },
+    {
+      "distritoId": 18,
+      "concelhoId": 24,
+      "nome": "VOUZELA"
+    },
+    {
+      "distritoId": 31,
+      "concelhoId": 1,
+      "nome": "CALHETA (R.A.M.)"
+    },
+    {
+      "distritoId": 31,
+      "concelhoId": 2,
+      "nome": "CÂMARA DE LOBOS"
+    },
+    {
+      "distritoId": 31,
+      "concelhoId": 3,
+      "nome": "FUNCHAL"
+    },
+    {
+      "distritoId": 31,
+      "concelhoId": 4,
+      "nome": "MACHICO"
+    },
+    {
+      "distritoId": 31,
+      "concelhoId": 5,
+      "nome": "PONTA DO SOL"
+    },
+    {
+      "distritoId": 31,
+      "concelhoId": 6,
+      "nome": "PORTO MONIZ"
+    },
+    {
+      "distritoId": 31,
+      "concelhoId": 7,
+      "nome": "RIBEIRA BRAVA"
+    },
+    {
+      "distritoId": 31,
+      "concelhoId": 8,
+      "nome": "SANTA CRUZ"
+    },
+    {
+      "distritoId": 31,
+      "concelhoId": 9,
+      "nome": "SANTANA"
+    },
+    {
+      "distritoId": 31,
+      "concelhoId": 10,
+      "nome": "SÃO VICENTE"
+    },
+    {
+      "distritoId": 32,
+      "concelhoId": 1,
+      "nome": "PORTO SANTO"
+    },
+    {
+      "distritoId": 41,
+      "concelhoId": 1,
+      "nome": "VILA DO PORTO"
+    },
+    {
+      "distritoId": 42,
+      "concelhoId": 1,
+      "nome": "LAGOA (R.A.A)"
+    },
+    {
+      "distritoId": 42,
+      "concelhoId": 2,
+      "nome": "NORDESTE"
+    },
+    {
+      "distritoId": 42,
+      "concelhoId": 3,
+      "nome": "PONTA DELGADA"
+    },
+    {
+      "distritoId": 42,
+      "concelhoId": 4,
+      "nome": "POVOAÇÃO"
+    },
+    {
+      "distritoId": 42,
+      "concelhoId": 5,
+      "nome": "RIBEIRA GRANDE"
+    },
+    {
+      "distritoId": 42,
+      "concelhoId": 6,
+      "nome": "VILA FRANCA DO CAMPO"
+    },
+    {
+      "distritoId": 43,
+      "concelhoId": 1,
+      "nome": "ANGRA DO HEROÍSMO"
+    },
+    {
+      "distritoId": 43,
+      "concelhoId": 2,
+      "nome": "VILA DA PRAIA DA VITÓRIA"
+    },
+    {
+      "distritoId": 44,
+      "concelhoId": 1,
+      "nome": "SANTA CRUZ DA GRACIOSA"
+    },
+    {
+      "distritoId": 45,
+      "concelhoId": 1,
+      "nome": "CALHETA (R.A.A.)"
+    },
+    {
+      "distritoId": 45,
+      "concelhoId": 2,
+      "nome": "VELAS"
+    },
+    {
+      "distritoId": 46,
+      "concelhoId": 1,
+      "nome": "LAJES DO PICO"
+    },
+    {
+      "distritoId": 46,
+      "concelhoId": 2,
+      "nome": "MADALENA"
+    },
+    {
+      "distritoId": 46,
+      "concelhoId": 3,
+      "nome": "SÃO ROQUE DO PICO"
+    },
+    {
+      "distritoId": 47,
+      "concelhoId": 1,
+      "nome": "HORTA"
+    },
+    {
+      "distritoId": 48,
+      "concelhoId": 1,
+      "nome": "LAJES DAS FLORES"
+    },
+    {
+      "distritoId": 48,
+      "concelhoId": 2,
+      "nome": "SANTA CRUZ DAS FLORES"
+    },
+    {
+      "distritoId": 49,
+      "concelhoId": 1,
+      "nome": "CORVO"
+    }
+  ]

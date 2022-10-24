@@ -1,0 +1,34 @@
+<html>
+
+<script src="dist/js/main.js"></script>
+
+<body>
+    <h1>Validadores PT - Demonstração</h1>
+    <label>Distrito</label><br />
+    <select class="distritos"></select></br>
+
+    <label class="concelhos">Concelho</label>
+    <select class="concelhos"></select>
+
+    <label class="freguesias">Freguesia</label>
+    <select class="freguesias"></select>
+
+    <script>
+        new ValidadoresPT.Morada({
+            elements: {
+                distrito: ".distritos",
+                concelho: ".concelhos",
+                freguesia: ".freguesias",
+            }
+        }).load()
+    </script>
+</body>
+
+<style>
+    .concelhos,
+    .freguesias {
+        display: none;
+    }
+</style>
+
+</html>

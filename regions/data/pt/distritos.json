@@ -1,0 +1,118 @@
+[
+    {
+      "CODIGO": 1,
+      "DISTRITO": "AVEIRO"
+    },
+    {
+      "CODIGO": 2,
+      "DISTRITO": "BEJA"
+    },
+    {
+      "CODIGO": 3,
+      "DISTRITO": "BRAGA"
+    },
+    {
+      "CODIGO": 4,
+      "DISTRITO": "BRAGANÇA"
+    },
+    {
+      "CODIGO": 5,
+      "DISTRITO": "CASTELO BRANCO"
+    },
+    {
+      "CODIGO": 6,
+      "DISTRITO": "COIMBRA"
+    },
+    {
+      "CODIGO": 7,
+      "DISTRITO": "ÉVORA"
+    },
+    {
+      "CODIGO": 8,
+      "DISTRITO": "FARO"
+    },
+    {
+      "CODIGO": 9,
+      "DISTRITO": "GUARDA"
+    },
+    {
+      "CODIGO": 10,
+      "DISTRITO": "LEIRIA"
+    },
+    {
+      "CODIGO": 11,
+      "DISTRITO": "LISBOA"
+    },
+    {
+      "CODIGO": 12,
+      "DISTRITO": "PORTALEGRE"
+    },
+    {
+      "CODIGO": 13,
+      "DISTRITO": "PORTO"
+    },
+    {
+      "CODIGO": 14,
+      "DISTRITO": "SANTARÉM"
+    },
+    {
+      "CODIGO": 15,
+      "DISTRITO": "SETÚBAL"
+    },
+    {
+      "CODIGO": 16,
+      "DISTRITO": "VIANA DO CASTELO"
+    },
+    {
+      "CODIGO": 17,
+      "DISTRITO": "VILA REAL"
+    },
+    {
+      "CODIGO": 18,
+      "DISTRITO": "VISEU"
+    },
+    {
+      "CODIGO": 31,
+      "DISTRITO": "ILHA DA MADEIRA"
+    },
+    {
+      "CODIGO": 32,
+      "DISTRITO": "ILHA DE PORTO SANTO"
+    },
+    {
+      "CODIGO": 41,
+      "DISTRITO": "ILHA DE SANTA MARIA"
+    },
+    {
+      "CODIGO": 42,
+      "DISTRITO": "ILHA DE SÃO MIGUEL"
+    },
+    {
+      "CODIGO": 43,
+      "DISTRITO": "ILHA TERCEIRA"
+    },
+    {
+      "CODIGO": 44,
+      "DISTRITO": "ILHA DA GRACIOSA"
+    },
+    {
+      "CODIGO": 45,
+      "DISTRITO": "ILHA DE SÃO JORGE"
+    },
+    {
+      "CODIGO": 46,
+      "DISTRITO": "ILHA DO PICO"
+    },
+    {
+      "CODIGO": 47,
+      "DISTRITO": "ILHA DO FAIAL"
+    },
+    {
+      "CODIGO": 48,
+      "DISTRITO": "ILHA DAS FLORES"
+    },
+    {
+      "CODIGO": 49,
+      "DISTRITO": "ILHA DO CORVO"
+    }
+  ]

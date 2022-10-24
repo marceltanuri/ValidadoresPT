@@ -1,0 +1,1262 @@
+[
+  {
+    "CODIGO_PAIS": "AD",
+    "DESIGNACAO_PAIS": "ANDORRA",
+    "DESIGNACAO_PAIS_EN": "Andorra"
+  },
+  {
+    "CODIGO_PAIS": "AE",
+    "DESIGNACAO_PAIS": "EMIRATOS ÁRABES UNIDOS",
+    "DESIGNACAO_PAIS_EN": "Arab Emirates United"
+  },
+  {
+    "CODIGO_PAIS": "AF",
+    "DESIGNACAO_PAIS": "AFEGANISTÃO",
+    "DESIGNACAO_PAIS_EN": "AFGHANISTAN"
+  },
+  {
+    "CODIGO_PAIS": "AG",
+    "DESIGNACAO_PAIS": "ANTÍGUA E BARBUDA",
+    "DESIGNACAO_PAIS_EN": "Antigua and bearded"
+  },
+  {
+    "CODIGO_PAIS": "AI",
+    "DESIGNACAO_PAIS": "ANGUILA",
+    "DESIGNACAO_PAIS_EN": "Angu"
+  },
+  {
+    "CODIGO_PAIS": "AL",
+    "DESIGNACAO_PAIS": "ALBÂNIA",
+    "DESIGNACAO_PAIS_EN": "ALBANIA"
+  },
+  {
+    "CODIGO_PAIS": "AM",
+    "DESIGNACAO_PAIS": "ARMÉNIA",
+    "DESIGNACAO_PAIS_EN": "ARMENIA"
+  },
+  {
+    "CODIGO_PAIS": "AN",
+    "DESIGNACAO_PAIS": "ANTILHAS HOLANDESAS",
+    "DESIGNACAO_PAIS_EN": "NETHERLANDS ANTILLES"
+  },
+  {
+    "CODIGO_PAIS": "AO",
+    "DESIGNACAO_PAIS": "ANGOLA",
+    "DESIGNACAO_PAIS_EN": "ANGOLA"
+  },
+  {
+    "CODIGO_PAIS": "AQ",
+    "DESIGNACAO_PAIS": "ANTÁRCTICA",
+    "DESIGNACAO_PAIS_EN": "Antarctic"
+  },
+  {
+    "CODIGO_PAIS": "AR",
+    "DESIGNACAO_PAIS": "ARGENTINA",
+    "DESIGNACAO_PAIS_EN": "ARGENTINA"
+  },
+  {
+    "CODIGO_PAIS": "AS",
+    "DESIGNACAO_PAIS": "SAMOA AMERICANA",
+    "DESIGNACAO_PAIS_EN": "American Samoa"
+  },
+  {
+    "CODIGO_PAIS": "AT",
+    "DESIGNACAO_PAIS": "ÁUSTRIA",
+    "DESIGNACAO_PAIS_EN": "AUSTRIA"
+  },
+  {
+    "CODIGO_PAIS": "AU",
+    "DESIGNACAO_PAIS": "AUSTRÁLIA",
+    "DESIGNACAO_PAIS_EN": "AUSTRALIA"
+  },
+  {
+    "CODIGO_PAIS": "AW",
+    "DESIGNACAO_PAIS": "ARUBA",
+    "DESIGNACAO_PAIS_EN": "Aruba"
+  },
+  {
+    "CODIGO_PAIS": "AX",
+    "DESIGNACAO_PAIS": "ILHAS ALAND",
+    "DESIGNACAO_PAIS_EN": "Aland Islands"
+  },
+  {
+    "CODIGO_PAIS": "AZ",
+    "DESIGNACAO_PAIS": "AZERBAIJÃO",
+    "DESIGNACAO_PAIS_EN": "AZERBAIJAN"
+  },
+  {
+    "CODIGO_PAIS": "BA",
+    "DESIGNACAO_PAIS": "BÓSNIA-HERZEGOVINA",
+    "DESIGNACAO_PAIS_EN": "BOSNIA HERZEGOVINA"
+  },
+  {
+    "CODIGO_PAIS": "BB",
+    "DESIGNACAO_PAIS": "BARBADOS",
+    "DESIGNACAO_PAIS_EN": "Barbados"
+  },
+  {
+    "CODIGO_PAIS": "BD",
+    "DESIGNACAO_PAIS": "BANGLADESH",
+    "DESIGNACAO_PAIS_EN": "BANGLADESH"
+  },
+  {
+    "CODIGO_PAIS": "BE",
+    "DESIGNACAO_PAIS": "BÉLGICA",
+    "DESIGNACAO_PAIS_EN": "BELGIUM"
+  },
+  {
+    "CODIGO_PAIS": "BF",
+    "DESIGNACAO_PAIS": "BURKINA FASO",
+    "DESIGNACAO_PAIS_EN": "Burkina Faso"
+  },
+  {
+    "CODIGO_PAIS": "BG",
+    "DESIGNACAO_PAIS": "BULGÁRIA",
+    "DESIGNACAO_PAIS_EN": "BULGARIA"
+  },
+  {
+    "CODIGO_PAIS": "BH",
+    "DESIGNACAO_PAIS": "BARÉM",
+    "DESIGNACAO_PAIS_EN": "Barbecue"
+  },
+  {
+    "CODIGO_PAIS": "BI",
+    "DESIGNACAO_PAIS": "BURUNDI",
+    "DESIGNACAO_PAIS_EN": "BURUNDI"
+  },
+  {
+    "CODIGO_PAIS": "BJ",
+    "DESIGNACAO_PAIS": "BENIN",
+    "DESIGNACAO_PAIS_EN": "Benin"
+  },
+  {
+    "CODIGO_PAIS": "BL",
+    "DESIGNACAO_PAIS": "SÃO BARTOLOMEU",
+    "DESIGNACAO_PAIS_EN": "São Bartolomeu"
+  },
+  {
+    "CODIGO_PAIS": "BM",
+    "DESIGNACAO_PAIS": "BERMUDAS",
+    "DESIGNACAO_PAIS_EN": "BERMUDA"
+  },
+  {
+    "CODIGO_PAIS": "BN",
+    "DESIGNACAO_PAIS": "BRUNEI DARUSSALAM",
+    "DESIGNACAO_PAIS_EN": "Brunei Darussalam"
+  },
+  {
+    "CODIGO_PAIS": "BO",
+    "DESIGNACAO_PAIS": "BOLÍVIA",
+    "DESIGNACAO_PAIS_EN": "BOLIVIA"
+  },
+  {
+    "CODIGO_PAIS": "BR",
+    "DESIGNACAO_PAIS": "BRASIL",
+    "DESIGNACAO_PAIS_EN": "BRAZIL"
+  },
+  {
+    "CODIGO_PAIS": "BS",
+    "DESIGNACAO_PAIS": "BAHAMAS",
+    "DESIGNACAO_PAIS_EN": "Bahamas"
+  },
+  {
+    "CODIGO_PAIS": "BT",
+    "DESIGNACAO_PAIS": "BUTÃO",
+    "DESIGNACAO_PAIS_EN": "Buttock"
+  },
+  {
+    "CODIGO_PAIS": "BV",
+    "DESIGNACAO_PAIS": "ILHA BOUVET",
+    "DESIGNACAO_PAIS_EN": "Bouvet Island"
+  },
+  {
+    "CODIGO_PAIS": "BW",
+    "DESIGNACAO_PAIS": "BOTSWANA",
+    "DESIGNACAO_PAIS_EN": "Botswana"
+  },
+  {
+    "CODIGO_PAIS": "BY",
+    "DESIGNACAO_PAIS": "BIELORRÚSSIA",
+    "DESIGNACAO_PAIS_EN": "Belarus"
+  },
+  {
+    "CODIGO_PAIS": "BZ",
+    "DESIGNACAO_PAIS": "BELIZE",
+    "DESIGNACAO_PAIS_EN": "Belize"
+  },
+  {
+    "CODIGO_PAIS": "CA",
+    "DESIGNACAO_PAIS": "CANADÁ",
+    "DESIGNACAO_PAIS_EN": "CANADA"
+  },
+  {
+    "CODIGO_PAIS": "CC",
+    "DESIGNACAO_PAIS": "ILHAS COCOS (KEELING)",
+    "DESIGNACAO_PAIS_EN": "Cocos Islands (Keeling)"
+  },
+  {
+    "CODIGO_PAIS": "CD",
+    "DESIGNACAO_PAIS": "CONGO (REPÚBLICA DEMOCRÁTICA DO)",
+    "DESIGNACAO_PAIS_EN": "Congo (Democratic Republic of)"
+  },
+  {
+    "CODIGO_PAIS": "CF",
+    "DESIGNACAO_PAIS": "CENTRO-AFRICANA (REPÚBLICA)",
+    "DESIGNACAO_PAIS_EN": "Central African (Republic)"
+  },
+  {
+    "CODIGO_PAIS": "CG",
+    "DESIGNACAO_PAIS": "CONGO",
+    "DESIGNACAO_PAIS_EN": "CONGO"
+  },
+  {
+    "CODIGO_PAIS": "CH",
+    "DESIGNACAO_PAIS": "SUIÇA",
+    "DESIGNACAO_PAIS_EN": "SWITZERLAND"
+  },
+  {
+    "CODIGO_PAIS": "CI",
+    "DESIGNACAO_PAIS": "COSTA DO MARFIM",
+    "DESIGNACAO_PAIS_EN": "COSTA DO MARFIM"
+  },
+  {
+    "CODIGO_PAIS": "CK",
+    "DESIGNACAO_PAIS": "ILHAS COOK",
+    "DESIGNACAO_PAIS_EN": "Cook Islands"
+  },
+  {
+    "CODIGO_PAIS": "CL",
+    "DESIGNACAO_PAIS": "CHILE",
+    "DESIGNACAO_PAIS_EN": "CHILE"
+  },
+  {
+    "CODIGO_PAIS": "CM",
+    "DESIGNACAO_PAIS": "CAMARÕES",
+    "DESIGNACAO_PAIS_EN": "CAMEROON"
+  },
+  {
+    "CODIGO_PAIS": "CN",
+    "DESIGNACAO_PAIS": "CHINA",
+    "DESIGNACAO_PAIS_EN": "CHINA"
+  },
+  {
+    "CODIGO_PAIS": "CO",
+    "DESIGNACAO_PAIS": "COLÔMBIA",
+    "DESIGNACAO_PAIS_EN": "COLOMBIA"
+  },
+  {
+    "CODIGO_PAIS": "CR",
+    "DESIGNACAO_PAIS": "COSTA RICA",
+    "DESIGNACAO_PAIS_EN": "COSTA RICA"
+  },
+  {
+    "CODIGO_PAIS": "CU",
+    "DESIGNACAO_PAIS": "CUBA",
+    "DESIGNACAO_PAIS_EN": "CUBA"
+  },
+  {
+    "CODIGO_PAIS": "CV",
+    "DESIGNACAO_PAIS": "CABO VERDE",
+    "DESIGNACAO_PAIS_EN": "CAPE GREEN"
+  },
+  {
+    "CODIGO_PAIS": "CW",
+    "DESIGNACAO_PAIS": "CURAÇAO",
+    "DESIGNACAO_PAIS_EN": "Healer"
+  },
+  {
+    "CODIGO_PAIS": "CX",
+    "DESIGNACAO_PAIS": "ILHA CHRISTMAS",
+    "DESIGNACAO_PAIS_EN": "Christmas island"
+  },
+  {
+    "CODIGO_PAIS": "CY",
+    "DESIGNACAO_PAIS": "CHIPRE",
+    "DESIGNACAO_PAIS_EN": "CYPRUS"
+  },
+  {
+    "CODIGO_PAIS": "CZ",
+    "DESIGNACAO_PAIS": "REPÚBLICA CHECA",
+    "DESIGNACAO_PAIS_EN": "CZECH REPUBLIC"
+  },
+  {
+    "CODIGO_PAIS": "DE",
+    "DESIGNACAO_PAIS": "ALEMANHA",
+    "DESIGNACAO_PAIS_EN": "GERMANY"
+  },
+  {
+    "CODIGO_PAIS": "DJ",
+    "DESIGNACAO_PAIS": "JIBUTI",
+    "DESIGNACAO_PAIS_EN": "Jibuti"
+  },
+  {
+    "CODIGO_PAIS": "DK",
+    "DESIGNACAO_PAIS": "DINAMARCA",
+    "DESIGNACAO_PAIS_EN": "DENMARK"
+  },
+  {
+    "CODIGO_PAIS": "DM",
+    "DESIGNACAO_PAIS": "DOMÍNICA",
+    "DESIGNACAO_PAIS_EN": "Domain"
+  },
+  {
+    "CODIGO_PAIS": "DO",
+    "DESIGNACAO_PAIS": "REPÚBLICA DOMINICANA",
+    "DESIGNACAO_PAIS_EN": "DOMINICAN REPUBLIC"
+  },
+  {
+    "CODIGO_PAIS": "DZ",
+    "DESIGNACAO_PAIS": "ARGÉLIA",
+    "DESIGNACAO_PAIS_EN": "ALGERIA"
+  },
+  {
+    "CODIGO_PAIS": "EC",
+    "DESIGNACAO_PAIS": "EQUADOR",
+    "DESIGNACAO_PAIS_EN": "ECUADOR"
+  },
+  {
+    "CODIGO_PAIS": "EE",
+    "DESIGNACAO_PAIS": "ESTÓNIA",
+    "DESIGNACAO_PAIS_EN": "ESTONIA"
+  },
+  {
+    "CODIGO_PAIS": "EG",
+    "DESIGNACAO_PAIS": "EGIPTO",
+    "DESIGNACAO_PAIS_EN": "Egypt"
+  },
+  {
+    "CODIGO_PAIS": "EH",
+    "DESIGNACAO_PAIS": "SARA OCIDENTAL",
+    "DESIGNACAO_PAIS_EN": "Western"
+  },
+  {
+    "CODIGO_PAIS": "ER",
+    "DESIGNACAO_PAIS": "ERITREIA",
+    "DESIGNACAO_PAIS_EN": "Eritrea"
+  },
+  {
+    "CODIGO_PAIS": "ES",
+    "DESIGNACAO_PAIS": "ESPANHA",
+    "DESIGNACAO_PAIS_EN": "SPAIN"
+  },
+  {
+    "CODIGO_PAIS": "ET",
+    "DESIGNACAO_PAIS": "ETIÓPIA",
+    "DESIGNACAO_PAIS_EN": "ETHIOPIA"
+  },
+  {
+    "CODIGO_PAIS": "FI",
+    "DESIGNACAO_PAIS": "FINLÂNDIA",
+    "DESIGNACAO_PAIS_EN": "FINLAND"
+  },
+  {
+    "CODIGO_PAIS": "FJ",
+    "DESIGNACAO_PAIS": "ILHAS FIJI",
+    "DESIGNACAO_PAIS_EN": "FIJI ISLANDS"
+  },
+  {
+    "CODIGO_PAIS": "FK",
+    "DESIGNACAO_PAIS": "ILHAS FALKLAND (MALVINAS)",
+    "DESIGNACAO_PAIS_EN": "FALKLAND ISLANDS (Falklands)"
+  },
+  {
+    "CODIGO_PAIS": "FM",
+    "DESIGNACAO_PAIS": "MICRONÉSIA (ESTADOS FEDERADOS DA)",
+    "DESIGNACAO_PAIS_EN": "Micronesia (Federated States of)"
+  },
+  {
+    "CODIGO_PAIS": "FO",
+    "DESIGNACAO_PAIS": "ILHAS FAROÉ",
+    "DESIGNACAO_PAIS_EN": "FAROE ISLANDS"
+  },
+  {
+    "CODIGO_PAIS": "FR",
+    "DESIGNACAO_PAIS": "FRANÇA",
+    "DESIGNACAO_PAIS_EN": "FRANCE"
+  },
+  {
+    "CODIGO_PAIS": "GA",
+    "DESIGNACAO_PAIS": "GABÃO",
+    "DESIGNACAO_PAIS_EN": "GABON"
+  },
+  {
+    "CODIGO_PAIS": "GB",
+    "DESIGNACAO_PAIS": "REINO UNIDO",
+    "DESIGNACAO_PAIS_EN": "UK"
+  },
+  {
+    "CODIGO_PAIS": "GD",
+    "DESIGNACAO_PAIS": "GRANADA",
+    "DESIGNACAO_PAIS_EN": "GRENADE"
+  },
+  {
+    "CODIGO_PAIS": "GE",
+    "DESIGNACAO_PAIS": "GEÓRGIA",
+    "DESIGNACAO_PAIS_EN": "Georgia"
+  },
+  {
+    "CODIGO_PAIS": "GF",
+    "DESIGNACAO_PAIS": "GUIANA FRANCESA",
+    "DESIGNACAO_PAIS_EN": "FRENCH GUIANA"
+  },
+  {
+    "CODIGO_PAIS": "GG",
+    "DESIGNACAO_PAIS": "GUERNESEY",
+    "DESIGNACAO_PAIS_EN": "Guernesey"
+  },
+  {
+    "CODIGO_PAIS": "GH",
+    "DESIGNACAO_PAIS": "GANA",
+    "DESIGNACAO_PAIS_EN": "GHANA"
+  },
+  {
+    "CODIGO_PAIS": "GI",
+    "DESIGNACAO_PAIS": "GIBRALTAR",
+    "DESIGNACAO_PAIS_EN": "GIBRALTAR"
+  },
+  {
+    "CODIGO_PAIS": "GL",
+    "DESIGNACAO_PAIS": "GRONELÂNDIA",
+    "DESIGNACAO_PAIS_EN": "Granel"
+  },
+  {
+    "CODIGO_PAIS": "GM",
+    "DESIGNACAO_PAIS": "GÂMBIA",
+    "DESIGNACAO_PAIS_EN": "GAMBIA"
+  },
+  {
+    "CODIGO_PAIS": "GN",
+    "DESIGNACAO_PAIS": "GUINÉ",
+    "DESIGNACAO_PAIS_EN": "Guinea"
+  },
+  {
+    "CODIGO_PAIS": "GP",
+    "DESIGNACAO_PAIS": "GUADALUPE",
+    "DESIGNACAO_PAIS_EN": "Guadalupe"
+  },
+  {
+    "CODIGO_PAIS": "GQ",
+    "DESIGNACAO_PAIS": "GUINÉ EQUATORIAL",
+    "DESIGNACAO_PAIS_EN": "EQUATORIAL GUINEA"
+  },
+  {
+    "CODIGO_PAIS": "GR",
+    "DESIGNACAO_PAIS": "GRÉCIA",
+    "DESIGNACAO_PAIS_EN": "GREECE"
+  },
+  {
+    "CODIGO_PAIS": "GS",
+    "DESIGNACAO_PAIS": "GEÓRGIA DO SUL E ILHAS SANDWICH",
+    "DESIGNACAO_PAIS_EN": "Georgia do Sul and Sandwich Islands"
+  },
+  {
+    "CODIGO_PAIS": "GT",
+    "DESIGNACAO_PAIS": "GUATEMALA",
+    "DESIGNACAO_PAIS_EN": "GUATEMALA"
+  },
+  {
+    "CODIGO_PAIS": "GU",
+    "DESIGNACAO_PAIS": "GUAM",
+    "DESIGNACAO_PAIS_EN": "Guam"
+  },
+  {
+    "CODIGO_PAIS": "GW",
+    "DESIGNACAO_PAIS": "GUINÉ-BISSAU",
+    "DESIGNACAO_PAIS_EN": "GUINEA BISSAU"
+  },
+  {
+    "CODIGO_PAIS": "GY",
+    "DESIGNACAO_PAIS": "GUIANA",
+    "DESIGNACAO_PAIS_EN": "GUYANA"
+  },
+  {
+    "CODIGO_PAIS": "HK",
+    "DESIGNACAO_PAIS": "HONG KONG",
+    "DESIGNACAO_PAIS_EN": "HONG KONG"
+  },
+  {
+    "CODIGO_PAIS": "HM",
+    "DESIGNACAO_PAIS": "ILHA HEARD E ILHAS MCDONALD",
+    "DESIGNACAO_PAIS_EN": "Heard Island and McDonald Islands"
+  },
+  {
+    "CODIGO_PAIS": "HN",
+    "DESIGNACAO_PAIS": "HONDURAS",
+    "DESIGNACAO_PAIS_EN": "HONDURAS"
+  },
+  {
+    "CODIGO_PAIS": "HR",
+    "DESIGNACAO_PAIS": "CROÁCIA",
+    "DESIGNACAO_PAIS_EN": "CROATIA"
+  },
+  {
+    "CODIGO_PAIS": "HT",
+    "DESIGNACAO_PAIS": "HAITI",
+    "DESIGNACAO_PAIS_EN": "HAITI"
+  },
+  {
+    "CODIGO_PAIS": "HU",
+    "DESIGNACAO_PAIS": "HUNGRIA",
+    "DESIGNACAO_PAIS_EN": "HUNGARY"
+  },
+  {
+    "CODIGO_PAIS": "ID",
+    "DESIGNACAO_PAIS": "INDONÉSIA",
+    "DESIGNACAO_PAIS_EN": "INDONESIA"
+  },
+  {
+    "CODIGO_PAIS": "IE",
+    "DESIGNACAO_PAIS": "IRLANDA",
+    "DESIGNACAO_PAIS_EN": "IRELAND"
+  },
+  {
+    "CODIGO_PAIS": "IL",
+    "DESIGNACAO_PAIS": "ISRAEL",
+    "DESIGNACAO_PAIS_EN": "ISRAEL"
+  },
+  {
+    "CODIGO_PAIS": "IM",
+    "DESIGNACAO_PAIS": "ILHA DE MAN",
+    "DESIGNACAO_PAIS_EN": "Island of man"
+  },
+  {
+    "CODIGO_PAIS": "IN",
+    "DESIGNACAO_PAIS": "ÍNDIA",
+    "DESIGNACAO_PAIS_EN": "INDIA"
+  },
+  {
+    "CODIGO_PAIS": "IO",
+    "DESIGNACAO_PAIS": "TERRITÓRIO BRITÂNICO DO OCEANO ÍNDICO",
+    "DESIGNACAO_PAIS_EN": "British Territory of the Indian Ocean"
+  },
+  {
+    "CODIGO_PAIS": "IQ",
+    "DESIGNACAO_PAIS": "IRAQUE",
+    "DESIGNACAO_PAIS_EN": "IRAQ"
+  },
+  {
+    "CODIGO_PAIS": "IR",
+    "DESIGNACAO_PAIS": "IRÃO (REPÚBLICA ISLÂMICA)",
+    "DESIGNACAO_PAIS_EN": "Iran (Islamic Republic)"
+  },
+  {
+    "CODIGO_PAIS": "IS",
+    "DESIGNACAO_PAIS": "ISLÂNDIA",
+    "DESIGNACAO_PAIS_EN": "ICELAND"
+  },
+  {
+    "CODIGO_PAIS": "IT",
+    "DESIGNACAO_PAIS": "ITÁLIA",
+    "DESIGNACAO_PAIS_EN": "ITALY"
+  },
+  {
+    "CODIGO_PAIS": "JE",
+    "DESIGNACAO_PAIS": "JERSEY",
+    "DESIGNACAO_PAIS_EN": "Jersey"
+  },
+  {
+    "CODIGO_PAIS": "JM",
+    "DESIGNACAO_PAIS": "JAMAICA",
+    "DESIGNACAO_PAIS_EN": "JAMAICA"
+  },
+  {
+    "CODIGO_PAIS": "JO",
+    "DESIGNACAO_PAIS": "JORDÂNIA",
+    "DESIGNACAO_PAIS_EN": "JORDAN"
+  },
+  {
+    "CODIGO_PAIS": "JP",
+    "DESIGNACAO_PAIS": "JAPÃO",
+    "DESIGNACAO_PAIS_EN": "JAPAN"
+  },
+  {
+    "CODIGO_PAIS": "KE",
+    "DESIGNACAO_PAIS": "QUÉNIA",
+    "DESIGNACAO_PAIS_EN": "KENYA"
+  },
+  {
+    "CODIGO_PAIS": "KG",
+    "DESIGNACAO_PAIS": "QUIRGUIZISTÃO",
+    "DESIGNACAO_PAIS_EN": "Quirguizistan"
+  },
+  {
+    "CODIGO_PAIS": "KH",
+    "DESIGNACAO_PAIS": "CAMBOJA",
+    "DESIGNACAO_PAIS_EN": "CAMBODIA"
+  },
+  {
+    "CODIGO_PAIS": "KI",
+    "DESIGNACAO_PAIS": "KIRIBATI",
+    "DESIGNACAO_PAIS_EN": "Kiribati"
+  },
+  {
+    "CODIGO_PAIS": "KM",
+    "DESIGNACAO_PAIS": "COMORES",
+    "DESIGNACAO_PAIS_EN": "Asres"
+  },
+  {
+    "CODIGO_PAIS": "KN",
+    "DESIGNACAO_PAIS": "SÃO CRISTÓVÃO E NEVIS",
+    "DESIGNACAO_PAIS_EN": "SAINT KITTS AND NEVIS"
+  },
+  {
+    "CODIGO_PAIS": "KP",
+    "DESIGNACAO_PAIS": "COREIA (REPÚBLICA POPULAR DEMOCRÁTICA DA",
+    "DESIGNACAO_PAIS_EN": "Korea (Democratic Popular Republic of"
+  },
+  {
+    "CODIGO_PAIS": "KR",
+    "DESIGNACAO_PAIS": "COREIA (REPÚBLICA DA)",
+    "DESIGNACAO_PAIS_EN": "KOREA, REPUBLIC OF)"
+  },
+  {
+    "CODIGO_PAIS": "KW",
+    "DESIGNACAO_PAIS": "KUWAIT",
+    "DESIGNACAO_PAIS_EN": "Kuwait"
+  },
+  {
+    "CODIGO_PAIS": "KY",
+    "DESIGNACAO_PAIS": "ILHAS CAIMÃO",
+    "DESIGNACAO_PAIS_EN": "Caimão islands"
+  },
+  {
+    "CODIGO_PAIS": "KZ",
+    "DESIGNACAO_PAIS": "CAZAQUISTÃO",
+    "DESIGNACAO_PAIS_EN": "KAZAKHSTAN"
+  },
+  {
+    "CODIGO_PAIS": "LA",
+    "DESIGNACAO_PAIS": "LAOS (REPÚBLICA POPULAR DEMOCRÁTICA DO)",
+    "DESIGNACAO_PAIS_EN": "Laos (Democratic Popular Republic of)"
+  },
+  {
+    "CODIGO_PAIS": "LB",
+    "DESIGNACAO_PAIS": "LÍBANO",
+    "DESIGNACAO_PAIS_EN": "LEBANON"
+  },
+  {
+    "CODIGO_PAIS": "LC",
+    "DESIGNACAO_PAIS": "SANTA LÚCIA",
+    "DESIGNACAO_PAIS_EN": "Saint Lucia"
+  },
+  {
+    "CODIGO_PAIS": "LI",
+    "DESIGNACAO_PAIS": "LIECHTENSTEIN",
+    "DESIGNACAO_PAIS_EN": "Liechtenstein"
+  },
+  {
+    "CODIGO_PAIS": "LK",
+    "DESIGNACAO_PAIS": "SRI LANKA",
+    "DESIGNACAO_PAIS_EN": "SRI LANKA"
+  },
+  {
+    "CODIGO_PAIS": "LR",
+    "DESIGNACAO_PAIS": "LIBÉRIA",
+    "DESIGNACAO_PAIS_EN": "LIBERIA"
+  },
+  {
+    "CODIGO_PAIS": "LS",
+    "DESIGNACAO_PAIS": "LESOTO",
+    "DESIGNACAO_PAIS_EN": "LESOTHO"
+  },
+  {
+    "CODIGO_PAIS": "LT",
+    "DESIGNACAO_PAIS": "LITUÂNIA",
+    "DESIGNACAO_PAIS_EN": "LITHUANIA"
+  },
+  {
+    "CODIGO_PAIS": "LU",
+    "DESIGNACAO_PAIS": "LUXEMBURGO",
+    "DESIGNACAO_PAIS_EN": "LUXEMBOURG"
+  },
+  {
+    "CODIGO_PAIS": "LV",
+    "DESIGNACAO_PAIS": "LETÓNIA",
+    "DESIGNACAO_PAIS_EN": "Latvian"
+  },
+  {
+    "CODIGO_PAIS": "LY",
+    "DESIGNACAO_PAIS": "LÍBIA (JAMAHIRIYA ÁRABE DA)",
+    "DESIGNACAO_PAIS_EN": "Libya (Jamahiriya Arab da)"
+  },
+  {
+    "CODIGO_PAIS": "MA",
+    "DESIGNACAO_PAIS": "MARROCOS",
+    "DESIGNACAO_PAIS_EN": "MOROCCO"
+  },
+  {
+    "CODIGO_PAIS": "MC",
+    "DESIGNACAO_PAIS": "MÓNACO",
+    "DESIGNACAO_PAIS_EN": "Monaco"
+  },
+  {
+    "CODIGO_PAIS": "MD",
+    "DESIGNACAO_PAIS": "MOLDOVA (REPÚBLICA DE)",
+    "DESIGNACAO_PAIS_EN": "MOLDOVA (Republic of)"
+  },
+  {
+    "CODIGO_PAIS": "ME",
+    "DESIGNACAO_PAIS": "MONTENEGRO",
+    "DESIGNACAO_PAIS_EN": "MONTENEGRO"
+  },
+  {
+    "CODIGO_PAIS": "MF",
+    "DESIGNACAO_PAIS": "SÃO MARTINHO (PARTE FRANCESA)",
+    "DESIGNACAO_PAIS_EN": "São Martinho (French part)"
+  },
+  {
+    "CODIGO_PAIS": "MG",
+    "DESIGNACAO_PAIS": "MADAGÁSCAR",
+    "DESIGNACAO_PAIS_EN": "MADAGASCAR"
+  },
+  {
+    "CODIGO_PAIS": "MH",
+    "DESIGNACAO_PAIS": "ILHAS MARSHALL",
+    "DESIGNACAO_PAIS_EN": "MARSHALL ISLANDS"
+  },
+  {
+    "CODIGO_PAIS": "MK",
+    "DESIGNACAO_PAIS": "MACEDÓNIA (ANTIGA REPÚBLICA JUGOSLAVA DA",
+    "DESIGNACAO_PAIS_EN": "Macedonia (former Republic Jugoslava da"
+  },
+  {
+    "CODIGO_PAIS": "ML",
+    "DESIGNACAO_PAIS": "MALI",
+    "DESIGNACAO_PAIS_EN": "Mali"
+  },
+  {
+    "CODIGO_PAIS": "MM",
+    "DESIGNACAO_PAIS": "MYANMAR",
+    "DESIGNACAO_PAIS_EN": "Myanmar"
+  },
+  {
+    "CODIGO_PAIS": "MN",
+    "DESIGNACAO_PAIS": "MONGÓLIA",
+    "DESIGNACAO_PAIS_EN": "MONGOLIA"
+  },
+  {
+    "CODIGO_PAIS": "MO",
+    "DESIGNACAO_PAIS": "MACAU",
+    "DESIGNACAO_PAIS_EN": "MACAO"
+  },
+  {
+    "CODIGO_PAIS": "MP",
+    "DESIGNACAO_PAIS": "ILHAS MARIANAS DO NORTE",
+    "DESIGNACAO_PAIS_EN": "North Marian Islands"
+  },
+  {
+    "CODIGO_PAIS": "MQ",
+    "DESIGNACAO_PAIS": "MARTINICA",
+    "DESIGNACAO_PAIS_EN": "Martinic"
+  },
+  {
+    "CODIGO_PAIS": "MR",
+    "DESIGNACAO_PAIS": "MAURITÂNIA",
+    "DESIGNACAO_PAIS_EN": "MAURITANIA"
+  },
+  {
+    "CODIGO_PAIS": "MS",
+    "DESIGNACAO_PAIS": "MONSERRATE",
+    "DESIGNACAO_PAIS_EN": "Monserrate"
+  },
+  {
+    "CODIGO_PAIS": "MT",
+    "DESIGNACAO_PAIS": "MALTA",
+    "DESIGNACAO_PAIS_EN": "MALTA"
+  },
+  {
+    "CODIGO_PAIS": "MU",
+    "DESIGNACAO_PAIS": "MAURÍCIAS",
+    "DESIGNACAO_PAIS_EN": "Mauricia"
+  },
+  {
+    "CODIGO_PAIS": "MV",
+    "DESIGNACAO_PAIS": "MALDIVAS",
+    "DESIGNACAO_PAIS_EN": "MALDIVES"
+  },
+  {
+    "CODIGO_PAIS": "MW",
+    "DESIGNACAO_PAIS": "MALAWI",
+    "DESIGNACAO_PAIS_EN": "Malawi"
+  },
+  {
+    "CODIGO_PAIS": "MX",
+    "DESIGNACAO_PAIS": "MÉXICO",
+    "DESIGNACAO_PAIS_EN": "MEXICO"
+  },
+  {
+    "CODIGO_PAIS": "MY",
+    "DESIGNACAO_PAIS": "MALÁSIA",
+    "DESIGNACAO_PAIS_EN": "MALAYSIA"
+  },
+  {
+    "CODIGO_PAIS": "MZ",
+    "DESIGNACAO_PAIS": "MOÇAMBIQUE",
+    "DESIGNACAO_PAIS_EN": "MOZAMBIQUE"
+  },
+  {
+    "CODIGO_PAIS": "NA",
+    "DESIGNACAO_PAIS": "NAMÍBIA",
+    "DESIGNACAO_PAIS_EN": "Namibia"
+  },
+  {
+    "CODIGO_PAIS": "NC",
+    "DESIGNACAO_PAIS": "NOVA CALEDÓNIA",
+    "DESIGNACAO_PAIS_EN": "New CaleDonia"
+  },
+  {
+    "CODIGO_PAIS": "NE",
+    "DESIGNACAO_PAIS": "NIGER",
+    "DESIGNACAO_PAIS_EN": "NIGER"
+  },
+  {
+    "CODIGO_PAIS": "NF",
+    "DESIGNACAO_PAIS": "ILHA NORFOLK",
+    "DESIGNACAO_PAIS_EN": "Norfolk Island"
+  },
+  {
+    "CODIGO_PAIS": "NG",
+    "DESIGNACAO_PAIS": "NIGÉRIA",
+    "DESIGNACAO_PAIS_EN": "NIGERIA"
+  },
+  {
+    "CODIGO_PAIS": "NI",
+    "DESIGNACAO_PAIS": "NICARÁGUA",
+    "DESIGNACAO_PAIS_EN": "NICARAGUA"
+  },
+  {
+    "CODIGO_PAIS": "NL",
+    "DESIGNACAO_PAIS": "PAÍSES BAIXOS",
+    "DESIGNACAO_PAIS_EN": "NETHERLANDS"
+  },
+  {
+    "CODIGO_PAIS": "NO",
+    "DESIGNACAO_PAIS": "NORUEGA",
+    "DESIGNACAO_PAIS_EN": "NORWAY"
+  },
+  {
+    "CODIGO_PAIS": "NP",
+    "DESIGNACAO_PAIS": "NEPAL",
+    "DESIGNACAO_PAIS_EN": "NEPAL"
+  },
+  {
+    "CODIGO_PAIS": "NR",
+    "DESIGNACAO_PAIS": "NAURU",
+    "DESIGNACAO_PAIS_EN": "Nauru"
+  },
+  {
+    "CODIGO_PAIS": "NU",
+    "DESIGNACAO_PAIS": "NIUE",
+    "DESIGNACAO_PAIS_EN": "Niue"
+  },
+  {
+    "CODIGO_PAIS": "NZ",
+    "DESIGNACAO_PAIS": "NOVA ZELÂNDIA",
+    "DESIGNACAO_PAIS_EN": "NEW ZEALAND"
+  },
+  {
+    "CODIGO_PAIS": "OM",
+    "DESIGNACAO_PAIS": "OMÃ",
+    "DESIGNACAO_PAIS_EN": "OMAN"
+  },
+  {
+    "CODIGO_PAIS": "PA",
+    "DESIGNACAO_PAIS": "PANAMÁ",
+    "DESIGNACAO_PAIS_EN": "PANAMA"
+  },
+  {
+    "CODIGO_PAIS": "PE",
+    "DESIGNACAO_PAIS": "PERU",
+    "DESIGNACAO_PAIS_EN": "PERU"
+  },
+  {
+    "CODIGO_PAIS": "PF",
+    "DESIGNACAO_PAIS": "POLINÉSIA FRANCESA",
+    "DESIGNACAO_PAIS_EN": "FRENCH POLYNESIAN"
+  },
+  {
+    "CODIGO_PAIS": "PG",
+    "DESIGNACAO_PAIS": "PAPUÁSIA-NOVA GUINÉ",
+    "DESIGNACAO_PAIS_EN": "Papássia-Nova Guinea"
+  },
+  {
+    "CODIGO_PAIS": "PH",
+    "DESIGNACAO_PAIS": "FILIPINAS",
+    "DESIGNACAO_PAIS_EN": "PHILIPPINES"
+  },
+  {
+    "CODIGO_PAIS": "PK",
+    "DESIGNACAO_PAIS": "PAQUISTÃO",
+    "DESIGNACAO_PAIS_EN": "PAKISTAN"
+  },
+  {
+    "CODIGO_PAIS": "PL",
+    "DESIGNACAO_PAIS": "POLÓNIA",
+    "DESIGNACAO_PAIS_EN": "POLAND"
+  },
+  {
+    "CODIGO_PAIS": "PM",
+    "DESIGNACAO_PAIS": "SÃO PEDRO E MIQUELON",
+    "DESIGNACAO_PAIS_EN": "St. Peter and Miquelon"
+  },
+  {
+    "CODIGO_PAIS": "PN",
+    "DESIGNACAO_PAIS": "PITCAIRN",
+    "DESIGNACAO_PAIS_EN": "Pitcairn"
+  },
+  {
+    "CODIGO_PAIS": "PR",
+    "DESIGNACAO_PAIS": "PORTO RICO",
+    "DESIGNACAO_PAIS_EN": "PUERTO RICO"
+  },
+  {
+    "CODIGO_PAIS": "PS",
+    "DESIGNACAO_PAIS": "TERRITÓRIO PALESTINIANO OCUPADO",
+    "DESIGNACAO_PAIS_EN": "Occupied Palestinian territory"
+  },
+  {
+    "CODIGO_PAIS": "PT",
+    "DESIGNACAO_PAIS": "PORTUGAL",
+    "DESIGNACAO_PAIS_EN": "PORTUGAL"
+  },
+  {
+    "CODIGO_PAIS": "PW",
+    "DESIGNACAO_PAIS": "PALAU",
+    "DESIGNACAO_PAIS_EN": "Palau"
+  },
+  {
+    "CODIGO_PAIS": "PY",
+    "DESIGNACAO_PAIS": "PARAGUAI",
+    "DESIGNACAO_PAIS_EN": "PARAGUAY"
+  },
+  {
+    "CODIGO_PAIS": "QA",
+    "DESIGNACAO_PAIS": "CATAR",
+    "DESIGNACAO_PAIS_EN": "QATAR"
+  },
+  {
+    "CODIGO_PAIS": "RE",
+    "DESIGNACAO_PAIS": "REUNIÃO",
+    "DESIGNACAO_PAIS_EN": "MEETING"
+  },
+  {
+    "CODIGO_PAIS": "RO",
+    "DESIGNACAO_PAIS": "ROMÉNIA",
+    "DESIGNACAO_PAIS_EN": "ROMANIA"
+  },
+  {
+    "CODIGO_PAIS": "RS",
+    "DESIGNACAO_PAIS": "SÉRVIA",
+    "DESIGNACAO_PAIS_EN": "SERBIA"
+  },
+  {
+    "CODIGO_PAIS": "RU",
+    "DESIGNACAO_PAIS": "RÚSSIA (FEDERAÇÃO DA)",
+    "DESIGNACAO_PAIS_EN": "Russia (Federation of)"
+  },
+  {
+    "CODIGO_PAIS": "RW",
+    "DESIGNACAO_PAIS": "RUANDA",
+    "DESIGNACAO_PAIS_EN": "RWANDA"
+  },
+  {
+    "CODIGO_PAIS": "SA",
+    "DESIGNACAO_PAIS": "ARÁBIA SAUDITA",
+    "DESIGNACAO_PAIS_EN": "SAUDI ARABIA"
+  },
+  {
+    "CODIGO_PAIS": "SB",
+    "DESIGNACAO_PAIS": "ILHAS SALOMÃO",
+    "DESIGNACAO_PAIS_EN": "SOLOMON ISLANDS"
+  },
+  {
+    "CODIGO_PAIS": "SC",
+    "DESIGNACAO_PAIS": "SEYCHELLES",
+    "DESIGNACAO_PAIS_EN": "Seychelles"
+  },
+  {
+    "CODIGO_PAIS": "SD",
+    "DESIGNACAO_PAIS": "SUDÃO",
+    "DESIGNACAO_PAIS_EN": "SUDAN"
+  },
+  {
+    "CODIGO_PAIS": "SE",
+    "DESIGNACAO_PAIS": "SUÉCIA",
+    "DESIGNACAO_PAIS_EN": "SWEDEN"
+  },
+  {
+    "CODIGO_PAIS": "SG",
+    "DESIGNACAO_PAIS": "SINGAPURA",
+    "DESIGNACAO_PAIS_EN": "Singapore"
+  },
+  {
+    "CODIGO_PAIS": "SH",
+    "DESIGNACAO_PAIS": "SANTA HELENA",
+    "DESIGNACAO_PAIS_EN": "SAINT HELEN"
+  },
+  {
+    "CODIGO_PAIS": "SI",
+    "DESIGNACAO_PAIS": "ESLOVÉNIA",
+    "DESIGNACAO_PAIS_EN": "SLOVENIA"
+  },
+  {
+    "CODIGO_PAIS": "SJ",
+    "DESIGNACAO_PAIS": "SVALBARD E A ILHA DE JAN MAYEN",
+    "DESIGNACAO_PAIS_EN": "Svalbard and the island of Jan Mayen"
+  },
+  {
+    "CODIGO_PAIS": "SK",
+    "DESIGNACAO_PAIS": "ESLOVÁQUIA",
+    "DESIGNACAO_PAIS_EN": "SLOVAKIA"
+  },
+  {
+    "CODIGO_PAIS": "SL",
+    "DESIGNACAO_PAIS": "SERRA LEOA",
+    "DESIGNACAO_PAIS_EN": "SIERRA LEONE"
+  },
+  {
+    "CODIGO_PAIS": "SM",
+    "DESIGNACAO_PAIS": "SÃO MARINO",
+    "DESIGNACAO_PAIS_EN": "São Marino"
+  },
+  {
+    "CODIGO_PAIS": "SN",
+    "DESIGNACAO_PAIS": "SENEGAL",
+    "DESIGNACAO_PAIS_EN": "SENEGAL"
+  },
+  {
+    "CODIGO_PAIS": "SO",
+    "DESIGNACAO_PAIS": "SOMÁLIA",
+    "DESIGNACAO_PAIS_EN": "SOMALIA"
+  },
+  {
+    "CODIGO_PAIS": "SR",
+    "DESIGNACAO_PAIS": "SURINAME",
+    "DESIGNACAO_PAIS_EN": "Suriname"
+  },
+  {
+    "CODIGO_PAIS": "ST",
+    "DESIGNACAO_PAIS": "SÃO TOMÉ E PRÍNCIPE",
+    "DESIGNACAO_PAIS_EN": "SAO TOME AND PRINCIPE"
+  },
+  {
+    "CODIGO_PAIS": "SV",
+    "DESIGNACAO_PAIS": "EL SALVADOR",
+    "DESIGNACAO_PAIS_EN": "EL SALVADOR"
+  },
+  {
+    "CODIGO_PAIS": "SY",
+    "DESIGNACAO_PAIS": "SÍRIA (REPÚBLICA ÁRABE DA)",
+    "DESIGNACAO_PAIS_EN": "Syria (Arab Republic of)"
+  },
+  {
+    "CODIGO_PAIS": "SZ",
+    "DESIGNACAO_PAIS": "SUAZILÂNDIA",
+    "DESIGNACAO_PAIS_EN": "Swaziland"
+  },
+  {
+    "CODIGO_PAIS": "TC",
+    "DESIGNACAO_PAIS": "ILHAS TURCAS E CAICOS",
+    "DESIGNACAO_PAIS_EN": "Turkish and Caicos Islands"
+  },
+  {
+    "CODIGO_PAIS": "TD",
+    "DESIGNACAO_PAIS": "CHADE",
+    "DESIGNACAO_PAIS_EN": "CHAD"
+  },
+  {
+    "CODIGO_PAIS": "TF",
+    "DESIGNACAO_PAIS": "TERRITÓRIOS FRANCESES DO SUL",
+    "DESIGNACAO_PAIS_EN": "French territories of the southern"
+  },
+  {
+    "CODIGO_PAIS": "TG",
+    "DESIGNACAO_PAIS": "TOGO",
+    "DESIGNACAO_PAIS_EN": "TOGO"
+  },
+  {
+    "CODIGO_PAIS": "TH",
+    "DESIGNACAO_PAIS": "TAILÂNDIA",
+    "DESIGNACAO_PAIS_EN": "Thailand"
+  },
+  {
+    "CODIGO_PAIS": "TJ",
+    "DESIGNACAO_PAIS": "TAJIQUISTÃO",
+    "DESIGNACAO_PAIS_EN": "Tajiquistan"
+  },
+  {
+    "CODIGO_PAIS": "TK",
+    "DESIGNACAO_PAIS": "TOKELAU",
+    "DESIGNACAO_PAIS_EN": "Tokelau"
+  },
+  {
+    "CODIGO_PAIS": "TL",
+    "DESIGNACAO_PAIS": "TIMOR LESTE",
+    "DESIGNACAO_PAIS_EN": "East Timor"
+  },
+  {
+    "CODIGO_PAIS": "TM",
+    "DESIGNACAO_PAIS": "TURQUEMENISTÃO",
+    "DESIGNACAO_PAIS_EN": "Turquemenistan"
+  },
+  {
+    "CODIGO_PAIS": "TN",
+    "DESIGNACAO_PAIS": "TUNÍSIA",
+    "DESIGNACAO_PAIS_EN": "TUNISIA"
+  },
+  {
+    "CODIGO_PAIS": "TO",
+    "DESIGNACAO_PAIS": "TONGA",
+    "DESIGNACAO_PAIS_EN": "Tong"
+  },
+  {
+    "CODIGO_PAIS": "TR",
+    "DESIGNACAO_PAIS": "TURQUIA",
+    "DESIGNACAO_PAIS_EN": "TURKEY"
+  },
+  {
+    "CODIGO_PAIS": "TT",
+    "DESIGNACAO_PAIS": "TRINDADE E TOBAGO",
+    "DESIGNACAO_PAIS_EN": "Trinity and Tobago"
+  },
+  {
+    "CODIGO_PAIS": "TV",
+    "DESIGNACAO_PAIS": "TUVALU",
+    "DESIGNACAO_PAIS_EN": "Tuval"
+  },
+  {
+    "CODIGO_PAIS": "TW",
+    "DESIGNACAO_PAIS": "TAIWAN (PROVÍNCIA DA CHINA)",
+    "DESIGNACAO_PAIS_EN": "Taiwan (Province of China)"
+  },
+  {
+    "CODIGO_PAIS": "TZ",
+    "DESIGNACAO_PAIS": "TANZÂNIA, REPÚBLICA UNIDA DA",
+    "DESIGNACAO_PAIS_EN": "Tanzania, United Republic of"
+  },
+  {
+    "CODIGO_PAIS": "UA",
+    "DESIGNACAO_PAIS": "UCRÂNIA",
+    "DESIGNACAO_PAIS_EN": "UKRAINE"
+  },
+  {
+    "CODIGO_PAIS": "UG",
+    "DESIGNACAO_PAIS": "UGANDA",
+    "DESIGNACAO_PAIS_EN": "UGANDA"
+  },
+  {
+    "CODIGO_PAIS": "UM",
+    "DESIGNACAO_PAIS": "ILHAS MENORES DISTANTES ESTADOS UNIDOS",
+    "DESIGNACAO_PAIS_EN": "Smaller islands distant United States"
+  },
+  {
+    "CODIGO_PAIS": "US",
+    "DESIGNACAO_PAIS": "ESTADOS UNIDOS",
+    "DESIGNACAO_PAIS_EN": "UNITED STATES"
+  },
+  {
+    "CODIGO_PAIS": "UY",
+    "DESIGNACAO_PAIS": "URUGUAI",
+    "DESIGNACAO_PAIS_EN": "URUGUAY"
+  },
+  {
+    "CODIGO_PAIS": "UZ",
+    "DESIGNACAO_PAIS": "USBEQUISTÃO",
+    "DESIGNACAO_PAIS_EN": "Usbekistan"
+  },
+  {
+    "CODIGO_PAIS": "VA",
+    "DESIGNACAO_PAIS": "SANTA SÉ (CIDADE ESTADO DO VATICANO)",
+    "DESIGNACAO_PAIS_EN": "Santa See (Vatican State City)"
+  },
+  {
+    "CODIGO_PAIS": "VC",
+    "DESIGNACAO_PAIS": "SÃO VICENTE E GRANADINAS",
+    "DESIGNACAO_PAIS_EN": "SAINT VINCENT AND THE GRENADINES"
+  },
+  {
+    "CODIGO_PAIS": "VE",
+    "DESIGNACAO_PAIS": "VENEZUELA",
+    "DESIGNACAO_PAIS_EN": "VENEZUELA"
+  },
+  {
+    "CODIGO_PAIS": "VG",
+    "DESIGNACAO_PAIS": "ILHAS VIRGENS (BRITÂNICAS)",
+    "DESIGNACAO_PAIS_EN": "Virgin Islands (British)"
+  },
+  {
+    "CODIGO_PAIS": "VI",
+    "DESIGNACAO_PAIS": "ILHAS VIRGENS (ESTADOS UNIDOS)",
+    "DESIGNACAO_PAIS_EN": "Virgin Islands (United States)"
+  },
+  {
+    "CODIGO_PAIS": "VN",
+    "DESIGNACAO_PAIS": "VIETNAME",
+    "DESIGNACAO_PAIS_EN": "Vietname"
+  },
+  {
+    "CODIGO_PAIS": "VU",
+    "DESIGNACAO_PAIS": "VANUATU",
+    "DESIGNACAO_PAIS_EN": "Vanuatu"
+  },
+  {
+    "CODIGO_PAIS": "WF",
+    "DESIGNACAO_PAIS": "WALLIS E FUTUNA (ILHAS)",
+    "DESIGNACAO_PAIS_EN": "Wallis and Futuna (islands)"
+  },
+  {
+    "CODIGO_PAIS": "WS",
+    "DESIGNACAO_PAIS": "SAMOA",
+    "DESIGNACAO_PAIS_EN": "Samoa"
+  },
+  {
+    "CODIGO_PAIS": "XA",
+    "DESIGNACAO_PAIS": "NASCIDO A BORDO",
+    "DESIGNACAO_PAIS_EN": "Born on board"
+  },
+  {
+    "CODIGO_PAIS": "XK",
+    "DESIGNACAO_PAIS": "KOSOVO",
+    "DESIGNACAO_PAIS_EN": "Kosovo"
+  },
+  {
+    "CODIGO_PAIS": "XX",
+    "DESIGNACAO_PAIS": "PAÍS DESCONHECIDO",
+    "DESIGNACAO_PAIS_EN": "Unknown country"
+  },
+  {
+    "CODIGO_PAIS": "YE",
+    "DESIGNACAO_PAIS": "IÉMEN",
+    "DESIGNACAO_PAIS_EN": "YEMEN"
+  },
+  {
+    "CODIGO_PAIS": "YT",
+    "DESIGNACAO_PAIS": "MAYOTTE",
+    "DESIGNACAO_PAIS_EN": "Mayotte"
+  },
+  {
+    "CODIGO_PAIS": "YY",
+    "DESIGNACAO_PAIS": "EM DÚVIDA",
+    "DESIGNACAO_PAIS_EN": "IN DOUBT"
+  },
+  {
+    "CODIGO_PAIS": "ZA",
+    "DESIGNACAO_PAIS": "ÁFRICA DO SUL",
+    "DESIGNACAO_PAIS_EN": "SOUTH AFRICA"
+  },
+  {
+    "CODIGO_PAIS": "ZM",
+    "DESIGNACAO_PAIS": "ZÂMBIA",
+    "DESIGNACAO_PAIS_EN": "ZAMBIA"
+  },
+  {
+    "CODIGO_PAIS": "ZW",
+    "DESIGNACAO_PAIS": "ZIMBABWE",
+    "DESIGNACAO_PAIS_EN": "Zimbabwe"
+  },
+  {
+    "CODIGO_PAIS": "ZZ",
+    "DESIGNACAO_PAIS": "PAÍS DESCONHECIDO",
+    "DESIGNACAO_PAIS_EN": "Unknown country"
+  }
+]
