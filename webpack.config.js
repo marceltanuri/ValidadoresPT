@@ -11,7 +11,7 @@ module.exports = {
     },
     entry: './index.js',
     output: {
-        filename: 'main.js',
+        filename: 'validadores-pt.min.js',
         path: path.resolve(__dirname, 'dist/js'),
         libraryTarget: "var",
         library: "ValidadoresPT",
