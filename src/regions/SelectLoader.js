@@ -9,7 +9,13 @@ export class SelectLoader {
 
     filterFn = null
     selector = ""
-    _config = {}
+    _config = { 
+        labelAsValue: false,
+        customLabel: null,
+        concatValueWithLabel: false,
+        orderByValue: false,
+        placeholder: null
+    }
     optionalColumns = []
 
     into(selector) {
@@ -32,7 +38,7 @@ export class SelectLoader {
 
         const selects = document.querySelectorAll(this.selector)
         let list = this.data
-        if(this._config.orderByValue)
+        if (this._config.orderByValue)
             list = this.data.sort((x, y) => { return x[this.value].localeCompare(y[this.value]) })
         else
             list = this.data.sort((x, y) => { return x[this.label].localeCompare(y[this.label]) })
@@ -46,14 +52,14 @@ export class SelectLoader {
             let _option = document.createElement("option")
             _option.value = ""
 
-            if(instance.optionalColumns != null){
-                instance.optionalColumns.forEach(col=>{
+            if (instance.optionalColumns != null) {
+                instance.optionalColumns.forEach(col => {
                     _option.dataset[col.toLowerCase()] = ""
                 })
             }
 
             _option.innerHTML = ""
-            if(instance._config.placeholder)
+            if (instance._config.placeholder)
                 _option.innerHTML = instance._config.placeholder
             _select.appendChild(_option)
         })
@@ -61,23 +67,29 @@ export class SelectLoader {
         list.forEach(x => {
             selects.forEach(_select => {
                 let _option = document.createElement("option")
-                _option.value = x[instance.value]
+
+                _option.dataset["id"] = x[instance.value]
+                if (instance._config.labelAsValue) {
+                    _option.value = x[instance.label]
+                } else {
+                    _option.value = x[instance.value]
+                }
+
                 let label = x[instance.label]
-                
-                
-                if(instance._config.customLabel){
+
+                if (instance._config.customLabel) {
                     label = instance._config.customLabel(label, x[instance.value])
                 }
-                
+
                 _option.innerHTML = label
-                
-                if(instance.optionalColumns != null){
-                    instance.optionalColumns.forEach(col=>{
+
+                if (instance.optionalColumns != null) {
+                    instance.optionalColumns.forEach(col => {
                         _option.dataset[col.toLowerCase()] = x[col]
                     })
                 }
 
-                if(instance._config.concatValueWithLabel)
+                if (instance._config.concatValueWithLabel)
                     _option.innerHTML = `${x[instance.value]} - ${label}`
                 _select.appendChild(_option)
             })

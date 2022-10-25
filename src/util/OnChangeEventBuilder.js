@@ -96,12 +96,10 @@ class OnChangeEventBuilder {
             
             const elem = document.querySelector(instance.#selector)
 
-            let elementRefreshValue = (elem.type=="checkbox" || elem.type=="radio") ? elem.checked:elem.value
-
             for (let operation of instance.#operations) {
-                if (operation.when(elementRefreshValue)) {
+                if (operation.when(elem)) {
                     for (let then of operation.then) {
-                        then(elementRefreshValue)
+                        then(elem)
                     }
                     break
                 }

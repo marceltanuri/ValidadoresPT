@@ -3,8 +3,9 @@ import { SelectLoader } from './SelectLoader'
 
 export class Distritos extends SelectLoader {
 
-    constructor() {
+    constructor(config) {
         super(distritos, "CODIGO", "DISTRITO")
+        this._config = config
     }
 
 }
