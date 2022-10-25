@@ -1,0 +1,20 @@
+<html>
+
+<script src="../dist/js/validadores-pt.min.js"></script>
+
+<body>
+    <h1>Validadores PT - Demonstração</h1>
+    <h3>Código países para chamadas (código de área como value no elemento option)</h3>
+    <label>Prefixo </label><br />
+    <select class="prefixos"></select></br></br></br>
+    
+    <h3>Lista de países (código ISO como value no elemento option)</h3>
+    <label>Países </label><br />
+    <select class="paises"></select></br>
+
+    <script>
+        new ValidadoresPT.Prefixos(".prefixos").load()
+        new ValidadoresPT.Paises(".paises").load()
+    </script>
+</body>
+</html>

@@ -3,7 +3,10 @@ import { SelectLoader } from './SelectLoader'
 
 export class Prefixos extends SelectLoader {
 
-    constructor() {
+    selector = ""
+
+    constructor(selector) {
         super(prefixos, "COUNTRY CODE", "ISO CODES")
+        this.selector = selector
     }
 }
